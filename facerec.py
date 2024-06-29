@@ -83,3 +83,4 @@ print('They have {}. NormL2 Distance: {}, threhold: {} (lower value means higher
 
 
 # To run : python facerec.py --reference_image .\reference_image.jpg --query_image .\query_image.jpg
+# Change the image path 
